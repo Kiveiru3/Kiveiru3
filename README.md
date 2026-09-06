@@ -6,7 +6,6 @@ AI Agent · Backend Engineering · Open Source
 
 <p align="center">
 Building practical AI agents and scalable backend systems.
+<p align="center">
+Email: rrongl@126.com
 </p>
-## 📫 Contact
-
-- Email: rrongl@126.com
