@@ -2,7 +2,7 @@
 
 <h3 align="center">
 A cs graduate student from beijing
-</h3>
-
+</h3 >
+<p align="center">
 Email: rrongl@126.com
 </p>
